@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and Responsive Web Development;
 - 🌱 I’m currently learning CSS, HTML, Javascript, PHP, MySQL and React;
 - 💞️ I’m looking for my first job as a Software Developer;
-- 📫 Find me on instagram @jmsb95!
+- 📫 Find me on linkedin.com/in/joaomarcossb!
 
 <!---
 joaomarcossb/joaomarcossb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
