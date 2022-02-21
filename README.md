@@ -1,10 +1,5 @@
 - 👋 Hi, I’m João Marcos Santana Brandão;
-- 👀 I’m interested in Software and Responsive Web Development;
-- 🌱 I’m currently learning CSS, HTML, Javascript, PHP, MySQL and React;
-- 💞️ I’m looking for my first job as a Software Developer;
-- 📫 Find me on linkedin.com/in/joaomarcossb!
-
-<!---
-joaomarcossb/joaomarcossb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software and Web Development;
+- 🌱 I’m currently learning CSS, HTML, Javascript, ReactJS, NodeJS, PHP, MySQL;
+- 💞️ I’m looking for an opportunity as a Software Developer;
+- 📫 Here's my own page: https://joaomarcossb.github.io/my-profile/
