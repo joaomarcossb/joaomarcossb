@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João Marcos Santana Brandão;
 - 👀 I’m interested in Software and Web Development;
-- 🌱 I’m currently learning CSS, HTML, Javascript, ReactJS, NodeJS, PHP, MySQL;
-- 💞️ I’m looking for an opportunity as a Software Developer;
+- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJS, jQuery, PHP, MySQL, Bootstrap, SASS, Git and more...;
+- 💞️ I’m looking for an opportunity as a Software Developer Junior;
 - 📫 Here's my own page: https://joaomarcossb.github.io/my-profile/
