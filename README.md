@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software and Web Development;
 - 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJS, jQuery, PHP, MySQL, Bootstrap, SASS, Git and more...;
 - 💞️ I’m looking for an opportunity as a Software Developer Junior;
-- 📫 Here's my own page: https://joaomarcossb.github.io/my-profile/
+- 📫 Here's my portfolio: https://joaomarcossb.github.io/my-profile/
